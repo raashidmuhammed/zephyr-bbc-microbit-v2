@@ -1,0 +1,5 @@
+&adc {
+	status = "okay";
+	label = "ADC_0";
+
+};
